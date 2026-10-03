@@ -1,0 +1,21 @@
+# Brotula
+
+> Brotula is a roguelike by Octanta Studio about a deep immersion to the very sources of life and water. The player controls a sexless deep-sea explorer. Battles are turn-based duels of brain cells in 3x3 grids, filled with skills that real deep-sea animals use. Genes carry over between dives, skills last for one dive. Made by hand by Dariia Zodcha, from the art to the code; music and sounds by Shvetsb. Languages: English, Ukrainian. First released on mobile in August 2022; playable on mobile and in the browser on PC via itch.io.
+
+The pages below are plain-text references to what is inside the game. Paths are relative to the repository root.
+
+## Game
+
+- [Game page on itch.io](https://octantastudio.itch.io/brotula): where to play Brotula
+- [Octanta Studio](https://www.octantastudio.com/): developer website
+
+## Reference
+
+- [README](README.md): overview, how a run works, progression, skill effect icons
+- [Battle mechanics](mechanics/battle.md): brain cells, turn order, pressure, escape, rewards, level-ups
+- [Skills](skills/skills.md): all 42 skills with caviar cost, effects and the genes that unlock them
+- [Genes](genes/genes.md): all 35 genes, their levels and what they open
+- [Companions](companions/companions.md): mermaids, how they generate genes, and each companion's gene pool
+- [Creatures](creatures/creatures.md): enemy species by depth, special behaviour
+- [World](world/world.md): zones, water memories, the goal of the game
+- [Glossary](glossary.md): terms used across the files
